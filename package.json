@@ -1,0 +1,21 @@
+{
+  "name": "saberjetxp-wizard",
+  "version": "1.0.0",
+  "description": "SaberjetXP Wizard was created to help the CNC operators of the SaberJet XP from Park Industries. Most of the operators doens't speek english and can't be helped by the assistence, this webApp will assist with the general questions.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
