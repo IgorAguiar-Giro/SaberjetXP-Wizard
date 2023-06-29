@@ -1,5 +1,7 @@
-function Home() {
-  return <h1>Hello World</h1>;
-}
+import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import NavBar from "../components/navbar";
 
-export default Home;
+export default function App() {
+  return <NavBar />;
+}

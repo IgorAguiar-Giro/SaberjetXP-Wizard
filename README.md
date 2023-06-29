@@ -4,4 +4,4 @@ SaberjetXP Wizard was created to help the CNC operators of the SaberJet XP from 
 
 # WebApp deployment URL
 
-https://saberjet-xp-wizard.vercel.app/
+https://saberjetwizard.vercel.app/
