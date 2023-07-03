@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 export default function NavBar() {
   return (
@@ -27,9 +28,9 @@ export default function NavBar() {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
-                  Link
-                </a>
+                <Link class="nav-link" href="/squaretest">
+                  Square Test
+                </Link>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled">Disabled</a>
