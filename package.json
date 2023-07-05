@@ -18,6 +18,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@types/bootstrap": "^5.2.6",
     "prettier": "^2.8.8"
   }
 }
