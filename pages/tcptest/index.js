@@ -26,7 +26,7 @@ export default function SquareTest() {
                 type="number"
                 value={Xa}
                 onChange={(e) => setXa(e.target.value)}
-                className="w-32   border-2 rounded-md border-black "
+                className="w-28 md:w-32  border-2 rounded-md border-black "
               ></input>
             </div>
             <div className="relative lg:-top-48 -top-36">
@@ -37,12 +37,12 @@ export default function SquareTest() {
                 className="w-32 md:w-full border-2 rounded-md border-black "
               ></input>
             </div>
-            <div className="relative lg:-right-56 -right-36 -top-5">
+            <div className="relative lg:-right-56 -right-36 -top-8">
               <input
                 type="number"
                 value={Xb}
                 onChange={(e) => setXb(e.target.value)}
-                className="w-32  border-2 rounded-md border-black "
+                className="w-28 md:w-32 border-2 rounded-md border-black "
               ></input>
             </div>
             <div className="relative lg:-bottom-36 -bottom-28">
