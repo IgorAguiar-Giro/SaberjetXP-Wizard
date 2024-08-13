@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="container px-5 pt-6 mx-auto">
           <div className="flex justify-around">
             <a
-              href="https://github.com/IgorAguiar-Giro/bugStalker"
+              href="https://github.com/IgorAguiar-Giro/SaberjetXP-Wizard"
               className="cursor-pointer"
             >
               <ion-icon size="large" name="logo-github"></ion-icon>

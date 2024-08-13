@@ -16,8 +16,6 @@ export default function App() {
         </a>
         para começar
       </div>
-      <div className=" h-96 w-full rounded-xl "></div>
-      <div className=" h-96 w-full rounded-xl "></div>
     </>
   );
 }
