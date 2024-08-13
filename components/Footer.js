@@ -20,7 +20,7 @@ const Footer = () => {
           <p className="p-5">v1 - SaberJet Wizard</p>
         </div>
         <div className="p-4 text-center bg-black bg-opacity-20">
-          © 2023 Copyright:
+          © 2024 Copyright:
           <a
             className="text-whitehite"
             href="https://github.com/IgorAguiar-Giro"

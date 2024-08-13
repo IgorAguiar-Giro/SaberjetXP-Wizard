@@ -18,7 +18,7 @@ export default function SquareTest() {
       <div className="flex justify-center p-10">
         <h1 className="text-4xl">TCP TEST WIZARD</h1>
       </div>
-      <div className="flex justify-center items-center h-screen">
+      <div className="flex justify-center h-screen">
         <div className="relative w-full h-1/2 lg:w-1/3 lg:h-2/3 md:w-2/3 md:h-2/3  bg-blue-500 flex flex-col items-center justify-center shadow-lg shadow-gray-500">
           <div className="w-1/2 h-1/2 bg-white mb-4 flex items-center flex-col justify-center">
             <div className="relative lg:-left-56 -left-36 -bottom-5">
@@ -59,7 +59,7 @@ export default function SquareTest() {
             <p>{`Valor de Y = ${Y}`}</p>
           </div>
 
-          <div className="absolute w-2/3 h-4 bottom-10 lg:bottom-20 rounded-full bg-white"></div>
+          <div className="absolute w-2/3 h-2 bottom-10 lg:bottom-20 rounded-full bg-white"></div>
         </div>
       </div>
     </>
